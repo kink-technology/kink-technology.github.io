@@ -1,0 +1,43 @@
+.master-footer {
+  margin-top: 3em;
+}
+.master-footer p {
+  border-top: 1px solid #DDD;
+  color: rgb(128,128,128);
+  padding: 1em 0;
+  font-size: 12px;
+}
+  .master-footer a {
+    color: #cf0000;
+  }
+
+
+.homepage .row {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.homepage .columns.hr {
+  margin-top: 3em;
+}
+
+.homepage .intro {
+  background: #D50711;
+  border-bottom: 2px solid #B7060F;
+  color: #fff;
+  margin: -3em -1em 6em; /* To offset the wrapping .container */
+  padding: 5em 0 6em;
+  text-shadow: 2px 2px 0 #B7060F;
+}
+
+.homepage .intro .row {
+  margin: 0 auto;
+  padding: 0 0.9375rem;
+}
+
+.homepage .intro h1 {
+  color: white;
+  font-size: 4rem;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+}
