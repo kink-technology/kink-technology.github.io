@@ -6,7 +6,7 @@ class: homepage
 <div class="intro clearfix">
 	<div class="row">
 		<h1>Kink in Technology</h1>
-		<p class="lead">A safe and confidential space for Kinky people in technology to chat, hangout, and support each other.</p>
+		<p class="lead">A safe and confidential space for kinky people in technology to chat, hangout, and support each other.</p>
 	</div>
 </div>
 
