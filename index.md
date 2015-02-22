@@ -13,7 +13,7 @@ class: homepage
 <div class="row">
 	<div class="medium-6 columns">
 		<h2>How do I join?</h2>
-		<p>The <a href="http://slack.com>Chat</a> is invitation-only, but invitations are freely granted.<br>You can request one from any existing member or by emailing <a href="mailto:hi@kink.technology">hi@kink.technology</a></p>
+		<p>The <a href="http://slack.com">Chat</a> is invitation-only, but invitations are freely granted.<br>You can request one from any existing member or by emailing <a href="mailto:hi@kink.technology">hi@kink.technology</a></p>
 	</div>
 	<div class="medium-6 columns">
 		<h2>Who&rsquo;s invited?</h2>
